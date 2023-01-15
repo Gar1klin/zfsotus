@@ -6,6 +6,7 @@ MACHINES = {
   :zfs => {
         :box_name => "centos/7",
         :box_version => "2004.01",
+        :provision => "test.sh",
     :disks => {
         :sata1 => {
             :dfile => './sata1.vdi',
