@@ -54,3 +54,5 @@ zfs receive otus/test@today < otus_task2.file
 
 # ищем файл и смотрим содержимое
 find /otus/test -name "secret_message"
+https://github.com/sindresorhus/awesome
+
